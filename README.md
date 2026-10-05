@@ -100,3 +100,15 @@ Rules đi kèm chỉ yêu cầu đăng nhập ẩn danh để ứng dụng demo 
 | `src/data.ts` | Các hàm Firestore và transaction đặt/hủy |
 | `src/utils/` | Hàm thuần lọc phòng, kiểm tra slot, icon và thông báo lỗi |
 | `tests/` | Kiểm tra logic bằng Node, không cần Firebase |
+
+## Ảnh demo
+<img width="1280" height="2629" alt="gen-h-z8339807716850_c91e841e607c29d4f6900b3bd03f82a1" src="https://github.com/user-attachments/assets/8a87f1d4-905f-4a0d-9466-de33d6045bcd" />
+<img width="1280" height="2607" alt="gen-h-z8339807827426_0d6ea0db8aa4fc84d1033cfd2bb0b5ac" src="https://github.com/user-attachments/assets/8303c50c-acd6-4db1-b4e1-c3f6f7840d8b" />
+<img width="1280" height="2620" alt="gen-h-z8339807752615_c13fd5590a09663407a6e83e9991bc55" src="https://github.com/user-attachments/assets/c38de1fa-9f35-4044-bd90-6217381d265f" />
+<img width="1280" height="2620" alt="gen-h-z8339807756048_00f8bae9f651e371f7fcd06ae572f9dc" src="https://github.com/user-attachments/assets/38a3b528-f876-4643-9eb3-8fa8f4c7d5e2" />
+<img width="1280" height="2597" alt="gen-h-z8339807755686_42de9a2e49a0bef8a8c8a975e3b77c91" src="https://github.com/user-attachments/assets/cb67dcff-4b47-4c9e-bcfa-e7a8ccdf4e9b" />
+<img width="1280" height="2607" alt="gen-h-z8339807761966_f9733b974217c2429ddd832d556dc2a6" src="https://github.com/user-attachments/assets/84fc2980-2d42-400c-8830-685ff93683c2" />
+<img width="1280" height="2617" alt="gen-h-z8339807805574_2aff2c0ea84d26bff6e34c1ca2238e32" src="https://github.com/user-attachments/assets/4578565b-cdea-407c-a284-64c6faa4ecb0" />
+
+
+
